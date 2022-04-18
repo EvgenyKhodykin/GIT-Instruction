@@ -25,6 +25,8 @@ LICENSE: [MIT](license.md)
 
 10. [*Удаление веток*](/deletebranch.md)
 
+11. [*Слияние веток*](/merge.md)
+
 ---
 GIT logo by Jason Long http://git-scm.com/downloads/logos
 License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
