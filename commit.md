@@ -7,3 +7,5 @@
 ---
 
 [<Назад](/readme.md)
+
+![](/assets/6.jpg)

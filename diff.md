@@ -4,3 +4,5 @@
 ---
 
 [<Назад](/readme.md)
+
+![](/assets/8.png)
